@@ -1,0 +1,21 @@
+PODS:
+  - Masonry (1.1.0)
+  - SSPCommonMacros (0.1.21)
+
+DEPENDENCIES:
+  - Masonry
+  - SSPCommonMacros (= 0.1.21)
+
+SPEC REPOS:
+  https://git.garena.com/shopee/ssz-client/ios/common/ssp-specs.git:
+    - SSPCommonMacros
+  trunk:
+    - Masonry
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SSPCommonMacros: 793da14ae18a6aabe3e6bf64cd4a2e098c9a3fb7
+
+PODFILE CHECKSUM: 0fdc5bd3a299676f1f2dea4eedd48831baab1d4b
+
+COCOAPODS: 1.9.3

@@ -1,0 +1,6 @@
+framework module SSPCommonMacros {
+  umbrella header "SSPCommonMacros.h"
+
+  export *
+  module * { export * }
+}
